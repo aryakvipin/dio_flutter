@@ -90,7 +90,7 @@ class _HomePageState extends State<HomePage> {
                             ),
                             Text(
                               userData.email,
-                              style: TextStyle(fontSize: 16.0),
+                              style: TextStyle(fontSize: 15.0),
                             ),
                           ],
                         );
